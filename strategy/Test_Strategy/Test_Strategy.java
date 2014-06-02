@@ -8,7 +8,6 @@ import strategy.*;
 
 
 public class Test_Strategy {
-	//ICompressor compressor;
 	Context cont;
 	String data = "string to compress";
 	Rar rar = new Rar();
